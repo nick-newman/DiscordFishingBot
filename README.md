@@ -6,6 +6,7 @@ COMMANDS
 
 `<!stats>` displays user's fishing statistics
 
+\n
  
 HOW TO SET UP ON YOUR SERVER
 
