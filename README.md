@@ -29,7 +29,7 @@ Under Token, press 'Copy'
 
 In Visual Studio Code, go to the file FishingBot\dist\config.js
 
-On line 4, replace <PUT TOKEN HERE> with the copied token
+On line 4, replace ~PUT TOKEN HERE~ with the copied token
   
 Go back to the Discord website
 
@@ -37,9 +37,9 @@ Under Settings, click on General Information
 
 Under Client ID, press 'Copy'
 
-Replace <PASTE CLIENT ID HERE> in the link below with the copied Client ID
+Replace ~PASTE CLIENT ID HERE~ in the link below with the copied Client ID
   
-https://discordapp.com/api/oauth2/authorize?client_id=<PASTE CLIENT ID HERE>&scope=bot&permissions=67120128
+https://discordapp.com/api/oauth2/authorize?client_id=~PASTE CLIENT ID HERE~&scope=bot&permissions=67120128
   
 Paste the link in a browser, hit enter, select your server, and press 'Authorize' to add the bot to your server
 
