@@ -49,6 +49,6 @@ Go to the file FishingBot\support for info on starting the bot
 
 **COMMANDS**
 
-`<!fish>` catches a fish
+`!fish` catches a fish
 
-`<!stats>` displays user's fishing statistics
+`!stats` displays user's fishing statistics
