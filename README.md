@@ -2,8 +2,9 @@
  
 COMMANDS
 
-!fish - catches a fish
-!stats - displays user's fishing statistics
+`<!fish>` catches a fish
+
+`<!stats>` displays user's fishing statistics
  
 HOW TO SET UP ON YOUR SERVER
 
