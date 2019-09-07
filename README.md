@@ -1,14 +1,6 @@
 ﻿# DiscordFishingBot
- 
-COMMANDS
 
-`<!fish>` catches a fish
-
-`<!stats>` displays user's fishing statistics
-
-\n
- 
-HOW TO SET UP ON YOUR SERVER
+**HOW TO SET UP ON YOUR SERVER**
 
 [Download Visual Studio Code](https://code.visualstudio.com/)
 
@@ -53,3 +45,10 @@ https://discordapp.com/api/oauth2/authorize?client_id= **`<PASTE CLIENT ID HERE>
 Paste the link in a browser, hit enter, select your server, and press 'Authorize' to add the bot to your server
 
 Go to the file FishingBot\support for info on starting the bot
+
+
+**COMMANDS**
+
+`<!fish>` catches a fish
+
+`<!stats>` displays user's fishing statistics
