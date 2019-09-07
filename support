@@ -1,0 +1,4 @@
+Open terminal at FishingBot\dist and type "node ." to turn bot on
+Press Ctrl + C to turn bot off
+Player data is stored in FishingBot\dist\json.sqlite
+Made by Nick Newman
